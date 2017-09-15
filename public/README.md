@@ -9,9 +9,9 @@ A Web-based Synth Pad For Everyone
 Synthesize sounds from a webpage
 
 ## Who has this problem?
-People without synthesizers
-People who aren't experts in sound synthesis or wave visualization
-People without synthesizer software or hardware
+- People without synthesizers
+- People who aren't experts in sound synthesis or wave visualization
+- People without synthesizer software or hardware
 
 ## How will your project solve this problem?
 Eliminate the need for a hardware or software synthesizers or visualizers
