@@ -33,11 +33,5 @@
 - Frequency range sliders
   - Low frequency limit
   - High frequency limit
-  - Low frequency setting cannot be higher than high frequency limit & vice versa
 - Waveform select buttons will stay lit and turn off when another waveform is selected
-  - This will eliminate the need for the pad background to display the current waveform
-    - PadInstructions.png can remain 100% of the time
-- Pad images
-  - Create PadInstructions.png so that the dark grey fades into a lighter grey simulating wear and tear
-- Make all h-tag innerHTML in the main html file appear to be coming from a backlit led display
-  - Monochromatic or multi-color?
+- All body text will be modified to appear to be coming from a low res monochromatic led display
