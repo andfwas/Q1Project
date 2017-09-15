@@ -5,9 +5,6 @@ Waveform App
 ## Project Description
 A Web-based Synth Pad For Everyone
 
-
-#### BONUS
-
 ## What problem does your project solve?
 Synthesize sounds from a webpage
 
