@@ -37,6 +37,7 @@ Eliminate the need for a hardware or software synthesizers or visualizers
 - Click or touch a region on the synth pad to produce various sounds
 - Change the type of sound to play
   - Select a waveform for generation
+- Display a creative strategy on the bottom of the page each time a new waveform is selected
 
 ## Upcoming Features
 - Frequency range sliders
