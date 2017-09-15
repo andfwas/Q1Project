@@ -51,15 +51,15 @@ Eliminate the need for a hardware or software synthesizers or visualizers
 - Make all h-tag innerHTML in the main html file appear to be coming from a backlit led display
   - Monochromatic or multi-color?
 
-  ![Screenshot](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/ButtonLightOne.png?raw=true)
-  ![Screenshot](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/ButtonLightTwo.png?raw=true)
-  ![Screenshot](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/NarrowSaw.png?raw=true)
-  ![Screenshot](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/NarrowTriangle.png?raw=true)
-  ![Screenshot](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/StartNarrow.png?raw=true)
-  ![Screenshot](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/StartWide.png?raw=true)
-  ![Screenshot](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/Strategy.png?raw=true)
-  ![Screenshot](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/WideSin.png?raw=true)
-  ![Screenshot](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/WideSquare.png?raw=true)
+  <img width="1680" alt="buttonlightone" src="https://github.com/andfwas/Q1Project/tree/master/ScreenShots/ButtonLightOne.png?raw=true">
+  <img width="1680" alt="buttonlighttwo" src="https://github.com/andfwas/Q1Project/tree/master/ScreenShots/ButtonLightTwo.png?raw=true">
+  <img width="723" alt="narrowsaw" src="https://github.com/andfwas/Q1Project/tree/master/ScreenShots/NarrowSaw.png?raw=true">
+  <img width="723" alt="narrowtriangle" src="https://github.com/andfwas/Q1Project/tree/master/ScreenShots/NarrowTriangle.png?raw=true">
+  <img width="723" alt="startnarrow" src="https://github.com/andfwas/Q1Project/tree/master/ScreenShots/StartNarrow.png?raw=true">
+  <img width="1680" alt="startwide" src="https://github.com/andfwas/Q1Project/tree/master/ScreenShots/StartWide.png?raw=true">
+  <img width="742" alt="strategy" src="https://github.com/andfwas/Q1Project/tree/master/ScreenShots/Strategy.png?raw=true">
+  <img width="1680" alt="widesin" src="https://github.com/andfwas/Q1Project/tree/master/ScreenShots/WideSin.png?raw=true">
+  <img width="1680" alt="widesquare" src="https://github.com/andfwas/Q1Project/tree/master/ScreenShots/WideSquare.png?raw=true">
 
 
 ## Upcoming Modifications
