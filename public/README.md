@@ -94,3 +94,31 @@ Sound
   - Graph update speeds (refresh rate)
     - Faster (uses more resources)
     - Slower (uses less resources)
+
+## Upcoming Features
+- Frequency range sliders
+  - Low frequency limit
+  - High frequency limit
+  - Low frequency setting cannot be higher than high frequency limit & vice versa
+- Waveform select buttons will stay lit and turn off when another waveform is selected
+  - This will eliminate the need for the pad background to display the current waveform
+    - PadInstructions.png can remain 100% of the time
+- Pad images
+  - Create PadInstructions.png so that the dark grey fades into a lighter grey simulating wear and tear
+- Make all h-tag innerHTML in the main html file appear to be coming from a backlit led display
+  - Monochromatic or multi-color?
+
+## Upcoming Modifications
+- Margins:
+  - Space between waveform select buttons and blue glowing gradient in header should be slightly larger
+  - Space between "credit" and "deckCard" tags should be larger
+  - Space between "credit" and "strategy" tags should be smaller
+    - For the above 2 items, make them the opposite of what they are now
+
+## Upcoming Fixes
+- stopSound
+  - Sometimes stopSound doesn't work & page needs to be refreshed
+- Separate functions more effectively
+  - Bugs that come from unnecessarily interwoven functionality
+    - Fetch from remote servers vs. local processes should be separated
+  - Separate js app files if necessary
