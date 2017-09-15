@@ -51,15 +51,15 @@ Eliminate the need for a hardware or software synthesizers or visualizers
 - Make all h-tag innerHTML in the main html file appear to be coming from a backlit led display
   - Monochromatic or multi-color?
 
-  [1](ScreenShots/ButtonLightOne.png)
-  [2](ScreenShots/ButtonLightTwo.png)
-  [3](ScreenShots/NarrowSaw.png)
-  [4](ScreenShots/NarrowTriangle.png)
-  [5](ScreenShots/StartNarrow.png)
-  [6](ScreenShots/StartWide.png)
-  [7](ScreenShots/Strategy.png)
-  [8](ScreenShots/WideSin.png)
-  [9](ScreenShots/WideSquare.png)
+  [1](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/ButtonLightOne.png?raw=true)
+  [2](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/ButtonLightTwo.png?raw=true)
+  [3](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/NarrowSaw.png?raw=true)
+  [4](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/NarrowTriangle.png?raw=true)
+  [5](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/StartNarrow.png?raw=true)
+  [6](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/StartWide.png?raw=true)
+  [7](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/Strategy.png?raw=true)
+  [8](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/WideSin.png?raw=true)
+  [9](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/WideSquare.png?raw=true)
 
 
 ## Upcoming Modifications
