@@ -1,4 +1,4 @@
-# Q1 Project Proposal 1
+# Q1 Project
 ~~Bassic System~~
 Waveform App
 
