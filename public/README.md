@@ -51,15 +51,15 @@ Eliminate the need for a hardware or software synthesizers or visualizers
 - Make all h-tag innerHTML in the main html file appear to be coming from a backlit led display
   - Monochromatic or multi-color?
 
-  ![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/tree/master/ScreenShots/ButtonLightOne.png
-  ![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/ButtonLightTwo.png
-  ![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/NarrowSaw.png
-  ![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/NarrowTriangle.png
-  ![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/StartNarrow.png
-  ![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/StartWide.png
-  ![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/Strategy.png
-  ![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/WideSin.png
-  ![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/WideSquare.png
+  [1](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/ButtonLightOne.png)
+  [2](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/ButtonLightTwo.png)
+  [3](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/NarrowSaw.png)
+  [4](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/NarrowTriangle.png)
+  [5](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/StartNarrow.png)
+  [6](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/StartWide.png)
+  [7](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/Strategy.png)
+  [8](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/WideSin.png)
+  [9](https://github.com/andfwas/Q1Project/tree/master/ScreenShots/WideSquare.png)
 
 
 ## Upcoming Modifications
