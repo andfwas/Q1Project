@@ -1,11 +1,10 @@
 # Q1 Project
-
 Waveform App
 
 ## Project Description
 A Web-based Synth Pad For Everyone
 
-## What problem does your project solve?
+## What problem does your project
 Synthesize sounds from a webpage
 
 ## Who has this problem?
