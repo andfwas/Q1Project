@@ -26,8 +26,8 @@
 
 
 <img width="1680" alt="widesquare" src="https://user-images.githubusercontent.com/27824133/30503818-e76fc906-9a28-11e7-8952-026f2a75e30e.png">
-<img width="350" alt="narrowtriangle" src="https://user-images.githubusercontent.com/27824133/30503815-e75d763e-9a28-11e7-9f2c-a4bd09b74657.png">
-<img width="350" alt="startnarrow" src="https://user-images.githubusercontent.com/27824133/30503811-e7581aea-9a28-11e7-82c6-f3f5b5661c6f.png">
+<img width="300" alt="narrowtriangle" src="https://user-images.githubusercontent.com/27824133/30503815-e75d763e-9a28-11e7-9f2c-a4bd09b74657.png">
+<img width="300" alt="startnarrow" src="https://user-images.githubusercontent.com/27824133/30503811-e7581aea-9a28-11e7-82c6-f3f5b5661c6f.png">
 
 ## Upcoming Features
 - Frequency range sliders
