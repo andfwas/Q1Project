@@ -22,8 +22,8 @@ Eliminate the need for a hardware or software synthesizers or visualizers
 - Touch
 
 ## What web API(s) will it use?
-[Web Audio API](http://blog.teamtreehouse.com/building-a-synthesizer-with-the-web-audio-api)
-[Oblique Strategies](http://brianeno.needsyourhelp.org/)
+- [Web Audio API](http://blog.teamtreehouse.com/building-a-synthesizer-with-the-web-audio-api)
+- [Oblique Strategies](http://brianeno.needsyourhelp.org/)
 
 ## What technologies do you plan to use?
 - HTML
