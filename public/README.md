@@ -18,7 +18,8 @@ Eliminate the need for a hardware or software synthesizers or visualizers
 
 ## What inputs does it need?
 - Click
-- Click and drag
+- Drag
+- Touch
 
 ## What web API(s) will it use?
 [Web Audio API](http://blog.teamtreehouse.com/building-a-synthesizer-with-the-web-audio-api)
